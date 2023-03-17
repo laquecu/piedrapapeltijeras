@@ -6,7 +6,7 @@ public class MoveWords{
     public static final int GANA = 1;
     public static final int PIERDE = 2;
 
-    private static final String[] validMoves = {"TIJERAS","LAGARTIJA", "PAPEL", "SPOCK", "PIEDRA"};
+    private static final String[] validMoves = {"TIJERAS","TORITO", "PAPEL", "SEPIA", "PIEDRA"};
     private static final String[] validCommands = {"SALIR", "HELP"};
 
     private Random rnd;
